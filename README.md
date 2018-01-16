@@ -1,4 +1,4 @@
-#Tippr
+# Tippr
 =====
 
 Tippr revolutionizes Bitcoin tipping by allowing people to tip anyone, even if they don't already have a Bitcoin wallet or social account.
@@ -10,14 +10,14 @@ After that, it takes arguments which I'll explain below.
 
 ### Balance
 Usage in comment: `None`  
-Usage in PM: `balance`  ([or click here](https://reddit.com/message/compose?to=tippr&subject=Balance&message=balance))
+Usage in PM: `balance`  [or click here](https://reddit.com/message/compose?to=tippr&subject=Balance&message=balance)
 
 This command will have tippr reply to you with your current balance.  
 Your balance is a combination of your deposits and received tips, minus your sent tips and withdrawals, and can be both tipped or withdrawn.
 
 ### Deposit  
 Usage in comment: `None`  
-Usage in PM: `deposit`  ([or click here](https://reddit.com/message/compose?to=tippr&subject=Deposit&message=deposit))
+Usage in PM: `deposit`  [or click here](https://reddit.com/message/compose?to=tippr&subject=Deposit&message=deposit)
 
 With this, tippr will send you a PM with an address to deposit at.  
 Your deposit will be stored in an intermediary wallet that you can withdraw from at any time.  
@@ -37,14 +37,13 @@ Received tips can be re-tipped or withdrawn.
 
 ### Withdraw
 Usage in comment: You can't use this command in a comment. Sorry.  
-Usage in PM: `withdraw <amount> <address>` ([or click here](https://reddit.com/message/compose?to=tippr&subject=Withdrawal&message=withdraw AMOUNT ADDRESS))
+Usage in PM: `withdraw <amount> <address>` [or click here](https://reddit.com/message/compose?to=tippr&subject=Withdrawal&message=withdraw AMOUNT ADDRESS)
 
 This command will send the specified `amount` of BCH to `address`  
 **There is currently no confirmation on this as long as the address is valid, so make sure you're passing it a valid Bitcoin Cash address that you control**
 
 ### Gild
 Usage in comment: `gild u/tippr`  
-Usage in PM: None _yet_
 This command will charge you the equivalent of $2.50 USD in BCH from your balance and gild the post you're replying to.     
 =====
 
