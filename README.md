@@ -43,8 +43,9 @@ This command will send the specified `amount` of BCH to `address`
 **There is currently no confirmation on this as long as the address is valid, so make sure you're passing it a valid Bitcoin Cash address that you control**
 
 ### Gild
-Usage in comment: `gild u/tippr`  
-This command will charge you the equivalent of $2.50 USD in BCH from your balance and gild the post you're replying to.     
+Usage in comment: `gild u/tippr`  
+This command will charge you the equivalent of $2.50 USD in BCH from your balance and gild the post you're replying to.
+
 ---
 
 # To Do List
