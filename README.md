@@ -3,19 +3,19 @@
 
 Tippr revolutionizes Bitcoin tipping by allowing people to tip anyone, even if they don't already have a Bitcoin wallet or social account.
 
-#Basic Usage
+# Basic Usage
 You can summon the bot into any thread. Just post a comment with a comment command (listed below).  
 You can also PM it directly with commands, but leave out `/u/tippr` and `u/tippr` if PMing it.  
 After that, it takes arguments which I'll explain below.
 
-###Balance
+### Balance
 Usage in comment: `None`  
 Usage in PM: `balance`  ([or click here](https://reddit.com/message/compose?to=tippr&subject=Balance&message=balance))
 
 This command will have tippr reply to you with your current balance.  
 Your balance is a combination of your deposits and received tips, minus your sent tips and withdrawals, and can be both tipped or withdrawn.
 
-###Deposit  
+### Deposit  
 Usage in comment: `None`  
 Usage in PM: `deposit`  ([or click here](https://reddit.com/message/compose?to=tippr&subject=Deposit&message=deposit))
 
@@ -23,7 +23,7 @@ With this, tippr will send you a PM with an address to deposit at.
 Your deposit will be stored in an intermediary wallet that you can withdraw from at any time.  
 For reasons, the deposit requires **3 confirmations** before being credited to your account. You'll receive a PM upon successful crediting.
 
-###Tip  
+### Tip  
 Usage in comment: `<amount> <unit> u/tippr`  
 Usage in PM: You can't use this command in a PM. Sorry.  
 
@@ -35,14 +35,14 @@ Received tips can be re-tipped or withdrawn.
 **Note: `$10 u/tippr` (or any other amount) will also work, and for now will assume USD, since no other currencies are yet in place.**
 **Additional Note: 1 bit = 100 satoshis = 0.000001 BCH**
 
-###Withdraw
+### Withdraw
 Usage in comment: You can't use this command in a comment. Sorry.  
 Usage in PM: `withdraw <amount> <address>` ([or click here](https://reddit.com/message/compose?to=tippr&subject=Withdrawal&message=withdraw AMOUNT ADDRESS))
 
 This command will send the specified `amount` of BCH to `address`  
 **There is currently no confirmation on this as long as the address is valid, so make sure you're passing it a valid Bitcoin Cash address that you control**
 
-###Gild
+### Gild
 Usage in comment: `gild u/tippr`  
 Usage in PM: None _yet_
 This command will charge you the equivalent of $2.50 USD in BCH from your balance and gild the post you're replying to.     
