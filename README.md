@@ -1,8 +1,8 @@
 # Tippr
----
+
 
 Tippr revolutionizes Bitcoin tipping by allowing people to tip anyone, even if they don't already have a Bitcoin wallet or social account.
-
+---
 # Basic Usage
 You can summon the bot into any thread. Just post a comment with a comment command (listed below).  
 You can also PM it directly with commands, but leave out `/u/tippr` and `u/tippr` if PMing it.  
@@ -44,8 +44,8 @@ This command will send the specified `amount` of BCH to `address`
 
 ### Gild
 Usage in comment: `gild u/tippr`  
-This command will charge you the equivalent of $2.50 USD in BCH from your balance and gild the post you're replying to.     
-=====
+This command will charge you the equivalent of $2.50 USD in BCH from your balance and gild the post you're replying to.     
+---
 
 # To Do List
 - [X] Create Repository
@@ -58,7 +58,7 @@ This command will charge you the equivalent of $2.50 USD in BCH from your balanc
 - [ ] Launch
 
 
-=====
+---
 This is version v0.0.1.a Some thanks is in order:
 
 -Thanks to Wade Dempsey for buying the tippr.org domain.
